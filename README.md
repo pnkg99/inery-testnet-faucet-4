@@ -1,2 +1,5 @@
 # inery-testnet-faucet-4
-Repository for iney testnet faucet challange 4 "RPC API push transaction"
+Inery Testnet Faucet Challange IV RPC API.
+
+Goal is to make software solution that implements RPC protocol 
+and use https://docs.inery.io/api/push-transactions API to push transaction to inery blockchain.
