@@ -37,6 +37,7 @@ options required :
 - add path to certificate
 
 `--https-certificate-chain-file="PATH_TO_CERTIFICATE/cert.pem" \`
+
 `--https-private-key-file="PATH_TO_CRETIFICATE/privkey.pem" \`
 
 - add port for https
